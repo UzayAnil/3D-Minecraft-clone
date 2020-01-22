@@ -1,4 +1,4 @@
-# JavaMinecraft
+# 3D-Minecraft-clone
 ### ICS 4U FSE
 ##### Hamza Saqib, Navidur Rahman, Tailai Wang
 Minecraft: A Java Remake
